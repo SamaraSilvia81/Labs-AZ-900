@@ -1,6 +1,6 @@
-# Resumo do Módulo 01 
-## Introdução à computação em nuvem AZURE
+![um-laptop-conectado-a-uma-rede-em-nuvem-generative-ai-1](https://github.com/user-attachments/assets/81304cc9-1ad3-41a3-8343-ec389585b342)
 
+# Introdução à computação em nuvem AZURE
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=23232e&style=for-the-badge)
 
 > A computação em nuvem refere-se ao fornecimento de serviços de computação via internet, permitindo inovações rápidas, flexibilidade e economias de escala. 
