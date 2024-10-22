@@ -1,6 +1,6 @@
 ![post_thumbnail-0fb93e0cf06d246f91f5f9fb2651e91d](https://github.com/user-attachments/assets/f1781532-be6b-4e07-9720-f9f5fc523867)
 
-# Introdução à computação em nuvem AZURE
+# Armazenamento na Azure
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=23232e&style=for-the-badge)
 
 > A computação em nuvem refere-se ao fornecimento de serviços de computação via internet, permitindo inovações rápidas, flexibilidade e economias de escala.
